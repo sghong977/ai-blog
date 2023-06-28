@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Kick off!","permalink":"/ai-blog/blog/start-blogging"},{"title":"Welcome","permalink":"/ai-blog/blog/welcome"},{"title":"Settings","permalink":"/ai-blog/blog/settings"}]}')}}]);
