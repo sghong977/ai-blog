@@ -4,10 +4,20 @@
         <title>SeulGi Hong Blog</title>
         <link>https://github.com/ai-blog/blog</link>
         <description>SeulGi Hong Blog</description>
-        <lastBuildDate>Wed, 28 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[\[Paper Review\] 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition ​]]></title>
+            <link>https://github.com/ai-blog/blog/vid2avatar</link>
+            <guid>https://github.com/ai-blog/blog/vid2avatar</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today, I'm going to review the paper for this CVPR 2023, Vid2Avatar.]]></description>
+            <content:encoded><![CDATA[<p>Today, I'm going to review the paper for this CVPR 2023, Vid2Avatar.</p><h1>Summary</h1><ul><li>"Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition"</li><li>ETH Zürich, CVPR 2023, <a href="https://moygcc.github.io/vid2avatar/" target="_blank" rel="noopener noreferrer">Project Page</a>, <a href="https://files.ait.ethz.ch/projects/vid2avatar/main.pdf" target="_blank" rel="noopener noreferrer">Paper</a></li></ul>]]></content:encoded>
+            <category>paper review</category>
+            <category>AI</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/ai-blog/blog/welcome</link>
