@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[526],{3497:a=>{a.exports=JSON.parse('{"label":"Text Segmentation","permalink":"/ai-blog/blog/tags/text-segmentation","allTagsPath":"/ai-blog/blog/tags","count":1}')}}]);
