@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[3363],{3796:a=>{a.exports=JSON.parse('{"label":"SMPL","permalink":"/ai-blog/blog/tags/smpl","allTagsPath":"/ai-blog/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[36],{3953:a=>{a.exports=JSON.parse('{"label":"Trends","permalink":"/ai-blog/blog/tags/trends","allTagsPath":"/ai-blog/blog/tags","count":2}')}}]);

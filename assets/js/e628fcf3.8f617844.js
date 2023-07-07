@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[9118],{7629:e=>{e.exports=JSON.parse('{"permalink":"/ai-blog/blog/tags/disk","page":1,"postsPerPage":2,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
