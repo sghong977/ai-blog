@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[1521],{5123:e=>{e.exports=JSON.parse('{"permalink":"/ai-blog/blog/tags/research-note","page":1,"postsPerPage":5,"totalPages":2,"totalCount":9,"nextPage":"/ai-blog/blog/tags/research-note/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

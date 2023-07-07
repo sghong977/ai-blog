@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[8925],{9368:l=>{l.exports=JSON.parse('{"permalink":"/ai-blog/blog/tags/multi-shot","page":1,"postsPerPage":2,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

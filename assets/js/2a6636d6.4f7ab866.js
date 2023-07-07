@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[2579],{8927:e=>{e.exports=JSON.parse('{"label":"Scene Text Recognition","permalink":"/ai-blog/blog/tags/scene-text-recognition","allTagsPath":"/ai-blog/blog/tags","count":1}')}}]);

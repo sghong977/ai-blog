@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[911],{9886:a=>{a.exports=JSON.parse('{"label":"OCR","permalink":"/ai-blog/blog/tags/ocr","allTagsPath":"/ai-blog/blog/tags","count":1}')}}]);

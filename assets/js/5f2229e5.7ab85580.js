@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_blog=self.webpackChunkai_blog||[]).push([[4637],{1342:e=>{e.exports=JSON.parse('{"label":"Object Detection","permalink":"/ai-blog/blog/tags/object-detection","allTagsPath":"/ai-blog/blog/tags","count":5}')}}]);
