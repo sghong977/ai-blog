@@ -136,6 +136,22 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+
+  // view all post in recent post
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+          postsPerPage: 2,
+        },
+      },
+    ],
+  ],
+  //
 };
 
 module.exports = config;
