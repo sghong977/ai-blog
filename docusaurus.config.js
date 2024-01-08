@@ -51,6 +51,9 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+          postsPerPage: 5,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -71,13 +74,15 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          /*{
+          {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'mySidebar',
             position: 'left',
-            label: 'Tutorial',
-          }, */
+            label: 'Getting Started',
+          }, 
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/research-note', label: 'Trends', position: 'left'},
+
           {
             href: 'https://github.com/sghong977',
             label: 'My GitHub',
@@ -136,22 +141,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-
-
-  // view all post in recent post
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        blog: {
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          postsPerPage: 2,
-        },
-      },
-    ],
-  ],
-  //
 };
 
 module.exports = config;

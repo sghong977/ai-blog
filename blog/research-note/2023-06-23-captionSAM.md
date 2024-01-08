@@ -1,11 +1,14 @@
 ---
 slug: captionSAM
-title: (MY NOTE) How to remove caption from images? - Language SAM
+title: How to remove caption from images? - Language SAM
 authors: seulgi
 tags: [Research Note, Segment Anything Model, Text Segmentation]
 ---
 
 How to remove caption from the video data?
+
+
+<!--truncate-->
 
 
 ## Task
